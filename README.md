@@ -1,6 +1,6 @@
 ### ✨ Web Services
 
-- ⚡ **[Piccs](https://piccs.app)** - 声優・アニメ・アーティストなどのニュース・イベント・番組情報などの情報を逃さずチェックできる Web アプリ (無料化予定)
+- ⚡ **[Piccs](https://piccs.app)** - 声優・アニメ・アーティストなどの情報を逃さずチェックできる Web アプリ (無料化予定)
 
 - 🌸 **[ReinaInfo Next](https://reinainfo-next.web.app)** ([yarnaimo/reinainfo-next](https://github.com/yarnaimo/reinainfo-next)) - 上田麗奈さん非公式 info
 
