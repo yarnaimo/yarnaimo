@@ -8,7 +8,7 @@
 
 ### npm packages
 
-- 🔥 **[yarnaimo/fireschema](https://github.com/yarnaimo/fireschema)** - Firestore のスキーマ定義からセキュリティルールの生成とデータの型付けを自動で行うツール
+- 🔥 **[yarnaimo/fireschema](https://github.com/yarnaimo/fireschema)** - Firestore / Cloud Functions のスキーマ定義からデータの型付けとセキュリティルールの生成を自動で行うツール
 
 - ⛵ **[yarnaimo/lifts](https://github.com/yarnaimo/lifts)** - TypeScript 向け軽量 Functional Programming ライブラリ
 
@@ -17,5 +17,3 @@
 ### Others
 
 - 🌈 **[yarnaimo/vscode-explorer-colorizer](https://github.com/yarnaimo/vscode-explorer-colorizer)** - VSCode のエクスプローラをディレクトリの階層ごとに色分けするカスタム CSS
-
-- 📻 **[yarnaimo/agrec](https://github.com/yarnaimo/agrec)** - AGQR Recorder
