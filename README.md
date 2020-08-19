@@ -8,7 +8,7 @@
 
 **[🍠 yarnaimo](https://yarnaimo.now.sh)** - ポートフォリオ
 
-**[⚡ Piccs](https://piccs.app)** - 声優・アニメ・アーティストなどの情報を逃さずチェックできる Web アプリ (無料化予定)
+**[⚡ Piccs](https://piccs.app)** - 声優・アニメ・アーティストなどのキーワードを登録すると、関連する公式ツイートを機械学習でピックアップして表示する Web アプリ
 
 **[🌸 ReinaInfo Next](https://reinainfo-next.web.app)** ([yarnaimo/reinainfo-next](https://github.com/yarnaimo/reinainfo-next)) - 上田麗奈さん非公式 info
 
