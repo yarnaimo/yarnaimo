@@ -6,7 +6,7 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/yarnaimo/contributions.svg)](http://qiita.com/yarnaimo)
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/yarnaimo/followers.svg)](http://qiita.com/yarnaimo)
 
-**[🍠 yarnaimo](https://yarnaimo.now.sh)** - ポートフォリオ
+**[🍠 yarnaimo](https://yarnaimo.vercel.app)** - ポートフォリオ
 
 **[⚡ Piccs](https://piccs.app)** - 声優・アニメ・アーティストなどのキーワードを登録すると、関連する公式ツイートを機械学習でピックアップして表示する Web アプリ
 
